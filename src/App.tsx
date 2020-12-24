@@ -16,7 +16,7 @@ export const App = () => {
   return (
     <div>
       <img src={logo} className="logo rotate" />
-      <h2>Hi!!!</h2>
+      <h2>Hi!</h2>
     </div>
   );
 };
